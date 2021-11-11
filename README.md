@@ -1,2 +1,2 @@
-# Pandas-Data-Analysis
+# Python-Data-Analysis
 Практики от заказчиков
